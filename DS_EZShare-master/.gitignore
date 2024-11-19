@@ -1,0 +1,19 @@
+# IDEA
+.idea
+.git
+*.iml
+
+# Compiling
+*.class
+
+# Log
+logfile.log
+logfile.log.*
+debug.log
+debug.log.*
+serverLog.*
+.DS_Store
+*.log
+*.lck
+*.log.*
+
